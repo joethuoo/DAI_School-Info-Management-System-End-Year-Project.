@@ -1,0 +1,5 @@
+This Project is a School Info Management System that was developed by a group of DAI Students,as their end f year project in Nairobi, it's a piece of the pie when it comes to School Info Management Systems.
+The code is written in JAVA SE and also consumes JDBC for local database connectivity as per our LIVE client requests.
+The core functionality of the System is to insert Students new Students to the System and manage their Tuition fee accordingly as they progress with their classes.
+
+warmly joe,
